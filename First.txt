@@ -3,3 +3,4 @@ Created this file to make initial steps for Git clone and Push.
 Through First file, I'm trying to identify the work of tracked vs untracked files which are working in Git Stash!
 
 Now, Need to check merge conflicts!
+From Slave branch, this sentence added....
