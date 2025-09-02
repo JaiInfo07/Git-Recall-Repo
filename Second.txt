@@ -1,1 +1,2 @@
 The second.txt file created after First Push to this Repo.
+Now need to check this sentence will appear on my directory after git stash commit!
